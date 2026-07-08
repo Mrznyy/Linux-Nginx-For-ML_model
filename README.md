@@ -1,1 +1,1 @@
-![alt text](mephi-nginx-screenshot.png)
+![alt text](answer.png)
